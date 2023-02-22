@@ -1,0 +1,4 @@
+composer.lock
+doc/_build
+vendor/
+.idea/
